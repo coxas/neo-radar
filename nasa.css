@@ -1,5 +1,6 @@
 body {
     background-image: url("space.jpg");
+    background-attachment: fixed;
 }
 
 .highlight {
