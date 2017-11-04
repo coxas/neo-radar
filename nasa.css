@@ -1,3 +1,10 @@
+body {
+    background-image: url("space.png");
+}
+
 .highlight {
-    background-color: yellow;
+    background-color: #008bc7;
+}
+.white {
+    color: white;
 }
